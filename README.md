@@ -14,3 +14,8 @@
 ## 下载
 
 请到 [Releases](../../releases) 页面下载对应版本的安装包。
+
+## 关于
+
+💖 支持作者 / Support
+   如果这个工具帮到了你，欢迎在爱发电支持我买数字签名证书：[我的爱发电主页]{https://ifdian.net/a/RogueGuard)
